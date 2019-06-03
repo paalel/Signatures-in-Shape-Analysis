@@ -1,0 +1,33 @@
+#file exstensions
+*.swp
+*.swo
+*.pyc
+.DS_Store
+.Rhistory
+__pycache__
+
+
+#data files
+*.asf
+*.amc
+*.avi
+*.mat
+*.csv
+
+#img or documents
+*.png
+*.svg
+*.eps
+*.pdf
+
+
+#
+code/config
+venv/
+
+#dont add certain files written by markus to avoid exceeding disk quota.
+markus_code
+markus_code/*
+
+
+
