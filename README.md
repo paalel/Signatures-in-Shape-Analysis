@@ -4,6 +4,16 @@ This repository contains the framework used for the master thesis with the same
 title. This project will also be published in the conference
 proceedings for the GSI 2019 conferencce.
 
+The work is done is a collaboration with
+[Professor Elena Celledoni](https://www.ntnu.edu/employees/elena.celledoni)
+ and 
+[Dr. Nikolas Tapia](http://www.wias-berlin.de/people/tapia/).
+
+
+This implementation is a continuation of work done by 
+[Markus Eslitzbichler](https://www.researchgate.net/scientific-contributions/2048343863_Markus_Eslitzbichler)
+while working as a PHD candidate at the Department of Mathematical Sciences, NTNU. 
+
 # Project structure
 
 ## Animation
