@@ -1,8 +1,8 @@
 # Signatures in Shape analysis: An Efficient Approach to Motion Identification
 
 This repository contains the framework used for the master thesis with the same
-title. This project will also be published in the conference
-proceedings for the GSI 2019 conferencce.
+title. This project will also be [published in the conference
+proceedings for the GSI 2019 conferencce](https://arxiv.org/abs/1906.06406).
 
 The work is done is a collaboration with
 [Professor Elena Celledoni](https://www.ntnu.edu/employees/elena.celledoni)
